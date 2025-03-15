@@ -16,15 +16,11 @@ This calculator includes basic arithmetic operations such as:
 The calculator works with both **decimal** and **whole numbers**.
 
 ## Features
-✅ User-friendly UI with responsive design (using **CSS Flexbox/Grid** and **Bootstrap**).
-
-✅ Supports **event listeners, loops, conditional statements (if/else), innerText/innerHTML**.
-
-✅ Clean and readable code with proper **comments** for better understanding.
-
-✅ **No external libraries** used; everything is built using **vanilla JavaScript**.
-
-✅ Fully deployed and accessible via **Netlify**.
+✅ User-friendly UI with responsive design (using **CSS Flexbox/Grid** and **Bootstrap**)
+✅ Supports **event listeners, loops, conditional statements (if/else), innerText/innerHTML**
+✅ Clean and readable code with proper **comments** for better understanding
+✅ **No external libraries** used; everything is built using **vanilla JavaScript**
+✅ Fully deployed and accessible via **Netlify**
 
 ## Technologies Used
 - **HTML** for structuring the calculator layout
@@ -43,10 +39,13 @@ The calculator works with both **decimal** and **whole numbers**.
 3. Open `index.html` in a web browser.
 
 ## Live Demo
-🔗 [Click here to access the live version](my-peronalcalculator-project.netlify.app)
+🔗 [Click here to access the live version](https://my-peronalcalculator-project.netlify.app)
 
 ## Contribution
 Feel free to contribute to this project by adding more functionalities or improving the UI.
+
+## License
+This project is open-source and available under the **MIT License**.
 
 ---
 🚀 **Build your own logic and avoid copying from Google! Make the design as creative as you can.**
