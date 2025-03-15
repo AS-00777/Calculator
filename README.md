@@ -43,7 +43,7 @@ The calculator works with both **decimal** and **whole numbers**.
 3. Open `index.html` in a web browser.
 
 ## Live Demo
-🔗 [Click here to access the live version](https://your-netlify-link.netlify.app)
+🔗 [Click here to access the live version](my-peronalcalculator-project.netlify.app)
 
 ## Contribution
 Feel free to contribute to this project by adding more functionalities or improving the UI.
