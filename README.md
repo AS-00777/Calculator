@@ -48,5 +48,5 @@ Feel free to contribute to this project by adding more functionalities or improv
 This project is open-source and available under the **MIT License**.
 
 ---
-🚀 **Build your own logic and avoid copying from Google! Make the design as creative as you can.**
+
 
